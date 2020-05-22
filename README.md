@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 
-<a href="#">Deployed through Netlify!</a>
+<a href="https://keen-thompson-33d41c.netlify.app/">Deployed through Netlify!</a>
 
 <p align="center">
   <a href="https://www.gatsbyjs.org">
